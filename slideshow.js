@@ -26,7 +26,7 @@ function hienThiSlideTruocDo() {
     }
     hienThiSlide(activeindexImg);
 
-
+//
 }
 
 function hienThiSlideKeTiep() {
